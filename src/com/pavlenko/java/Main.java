@@ -13,6 +13,7 @@ public class Main {
 		Car car2 = new Toyota();
 		main.useCar(car2);
 
+		System.out.println("second patch");
 	}
 	
 }
